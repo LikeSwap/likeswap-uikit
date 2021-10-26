@@ -4,8 +4,8 @@ import { SvgProps } from "../types";
 
 const Icon: React.FC<SvgProps> = (props) => {
   return (
-    <Svg viewBox="0 0 32 32" {...props}>
-      <image width="32" height="32" href="/images/like/logo.png" />
+    <Svg viewBox="0 0 90 90" {...props}>
+      <image width={90} height={90} href="/images/incubator/9.png" />
     </Svg>
   );
 };
