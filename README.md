@@ -1,4 +1,4 @@
-# likeSwap UIkit
+# LikeSwap UIkit
 
 [![Version](https://img.shields.io/npm/v/@likeswaporg/uikit)](https://www.npmjs.com/package/@likeswaporg/uikit) [![Size](https://img.shields.io/bundlephobia/min/@likeswaporg/uikit)](https://www.npmjs.com/package/@likeswaporg/uikit)
 
